@@ -1,5 +1,5 @@
 {
-  "name": "claude-to-floatboat",
+  "name": "agent-to-im",
   "version": "0.1.0",
   "description": "Bridge between Floatboat Channel (MQTT/Protobuf) and Claude Code via claude-agent-sdk",
   "type": "module",
